@@ -26,6 +26,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=glitterylungs&label=Profile%20views&color=0e75b6&style=flat&color=red" alt="glitterylungs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sajku&label=Profile%20views&color=0e75b6&style=flat&color=red" alt="Sajku" /> </p>
 
 
