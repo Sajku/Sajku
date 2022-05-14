@@ -27,8 +27,6 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sajku&label=Profile%20views&color=0e75b6&style=flat&color=red" alt="Sajku1" /> </p>
-
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajku&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="Sajku2" /> </p>
 
 
