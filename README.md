@@ -1,6 +1,6 @@
 <h1 align="center">Hi!  I'm Simon - Sajku 👋</h1>
 
-<h3 align="center">Future iOS Developer</h3>
+<h3 align="center">Future .NET Developer</h3>
 
 - 🔭 I’m currently working on [MiniTotalCommander](https://github.com/Sajku/MiniTotalCommander)
 
