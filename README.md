@@ -2,9 +2,9 @@
 
 <h3 align="center">Future .NET Developer</h3>
 
-- 🔭 I’m currently working on [MiniTotalCommander](https://github.com/Sajku/MiniTotalCommander)
+- 🔭 I’m currently working on [.NET+Angular Project](https://github.com/Sajku/.NET-Angular-Internship-Project)
 
-- 🌱 I’m currently learning **.NET, C#, MVVM, MySQL, PostgreSQL, Python Data Analysis**
+- 🌱 I’m currently learning **.NET, C#, MS SQL, Angular, MySQL, Python Data Analysis**
 
 - 📫 How to reach me **kielek0412@gmail.com**
 
