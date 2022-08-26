@@ -2,9 +2,9 @@
 
 <h3 align="center">Junior Fullstack Developer</h3>
 
-- 💻 I work remotely at <a href="https://softint.eu">Software Interactive</a> as a Junior Fullstack Developer.
+- 💻 I work remotely at <a href="https://softint.eu" target="_blank">Software Interactive</a> as a Junior Fullstack Developer.
 
-- 🔭 I’m currently working at new version of <a href="http://www.castingstudio.pl/">CastingStudio.pl</a>
+- 🔭 I’m currently working at new version of <a href="http://www.castingstudio.pl/" target="_blank">CastingStudio.pl</a>
 
 - 🌱 I’m currently learning **Angular, .NET, C#, MS SQL, MySQL, Azure DevOps, Python Data Analysis**
 
