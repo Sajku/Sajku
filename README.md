@@ -1,10 +1,12 @@
 <h1 align="center">Hi!  I'm Simon 👋</h1>
 
-<h3 align="center">Future .NET Developer</h3>
+<h3 align="center">Junior Fullstack Developer</h3>
 
-- 🔭 I’m currently working on my internship training project [[.NET+Angular Project]](https://github.com/Sajku/.NET-Angular-Internship-Project)
+- 💻 I work remotely at <a href="https://softint.eu">Software Interactive</a> as a Junior Fullstack Developer.
 
-- 🌱 I’m currently learning **.NET, C#, MS SQL, Angular, MySQL, Python Data Analysis**
+- 🔭 I’m currently working at new version of <a href="http://www.castingstudio.pl/">CastingStudio.pl</a>
+
+- 🌱 I’m currently learning **Angular, .NET, C#, MS SQL, MySQL, Azure DevOps, Python Data Analysis**
 
 - 📫 How to reach me **kielek0412@gmail.com**
 
